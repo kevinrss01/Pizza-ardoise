@@ -62,7 +62,7 @@ a img {
 
 header {
 	border: 3px black solid;
-	background-image: url(/Images/Pizza.jpeg);
+	background-image: url(./Images/Pizza.jpeg);
 	background-size: cover;
 	background-position: center;
 }
